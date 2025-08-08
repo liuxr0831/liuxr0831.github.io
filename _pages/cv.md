@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, [Cornell University](www.cornell.edu), 8/2023 - now
-* Bachelor of Science in Computer Science, Neurobiology, and Mathematics, [University of Wisconsin-Madison](www.wisc.edu), 8/2019 - 5/2023
-* High School Diploma, [The Affiliated High School of Peking University](www.pkuschool.edu.cn), 9/2016 - 5/2019
+* Ph.D in Computer Science, [Cornell University](https://www.cornell.edu), 8/2023 - now
+* Bachelor of Science in Computer Science, Neurobiology, and Mathematics, [University of Wisconsin-Madison](https://www.wisc.edu), 8/2019 - 5/2023
+* High School Diploma, [The Affiliated High School of Peking University](https://www.pkuschool.edu.cn), 9/2016 - 5/2019
 
 
 

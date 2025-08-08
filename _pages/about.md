@@ -14,8 +14,6 @@ I'm Xinrui Liu, a second-year computer science Ph.D student at Cornell Universit
 
 Prior to my Ph.D study, I obtained the Bachelor of Science degree from University of Wisconsin-Madison with majors in computer science, neurobiology, and mathematics. During my undergraduate time, I worked in Prof. Ari Rosenberg's lab doing eye-tracking-related work. I also worked with Prof. Matthew I. Banks and Prof. Barry Van Veen analyzing human brain electrophysiological data. 
 
-<!-- Below is a list of my publications. Please check other pages to learn more about me.
-
 <br/>
 
 # Publications
@@ -38,4 +36,4 @@ Prior to my Ph.D study, I obtained the Bachelor of Science degree from Universit
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %} -->
+{% endif %}
