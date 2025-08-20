@@ -22,3 +22,9 @@ EXPOSE 4000
 # Command to serve the Jekyll site
 CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--watch"]
 
+# To build the Docker image, run:
+# docker build -t liuxr0831.github.io .
+# rm -rf Gemfile.lock
+
+# To run the Docker container, use:
+# docker run -p 4000:4000 --rm -v $(pwd):/usr/src/app liuxr0831.github.io

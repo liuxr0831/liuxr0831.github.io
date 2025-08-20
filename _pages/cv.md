@@ -33,13 +33,13 @@ Work and Research Experiences
 
 
 
-<!-- <br/>
+<br/>
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
 
 
 
@@ -60,7 +60,12 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-<!-- Service and leadership
+
+
+
+<br/>
+
+Service
 ======
-* Currently signed in to 43 different slack teams -->
+
+* 5/2025: Reviewed for SIGGRAPH 2025 Poster Program.
