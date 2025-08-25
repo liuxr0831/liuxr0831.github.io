@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I'm Xinrui Liu, a second-year computer science Ph.D student at Cornell University advised by [Prof. Abe Davis](https://abedavis.com/). My research interests lie primarily in human-computer interaction. Specifically, I work on projects related to eye tracking, VR/AR, and interaction designs for content creation. 
+I'm Xinrui Liu, a third-year computer science Ph.D student at Cornell University advised by [Prof. Abe Davis](https://abedavis.com/). My research interests lie primarily in human-computer interaction. Specifically, I work on projects related to eye tracking, VR/AR, and interaction designs for content creation. 
 
 Prior to my Ph.D study, I obtained the Bachelor of Science degree from University of Wisconsin-Madison with majors in computer science, neurobiology, and mathematics. During my undergraduate time, I worked in Prof. Ari Rosenberg's lab doing eye-tracking-related work. I also worked with Prof. Matthew I. Banks and Prof. Barry Van Veen analyzing human brain electrophysiological data. 
 
