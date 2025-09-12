@@ -3,7 +3,7 @@ title: "CS 1112 - Introduction to Computing: An Engineering and Science Perspect
 collection: teaching
 type: "TA of Undergraduate Course"
 permalink: /teaching/2024-spring-ta-cornell
-venue: "Department of Computer Science, Cornell Univeristy"
+venue: "Department of Computer Science, Cornell University"
 date: 2024-5-7
 location: "Ithaca, NY, USA"
 excerpt: "Introductory Python course for non-CS-major undergrads."

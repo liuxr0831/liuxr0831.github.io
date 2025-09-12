@@ -3,7 +3,7 @@ title: "CS 4620 - Introduction to Computer Graphics (Fall 2025)"
 collection: teaching
 type: "TA of Undergraduate Course"
 permalink: /teaching/2025-fall-ta-cornell
-venue: "Department of Computer Science, Cornell Univeristy"
+venue: "Department of Computer Science, Cornell University"
 date: 2025-12-8
 location: "Ithaca, NY, USA"
 excerpt: "Undergraduate-level computer graphics course."

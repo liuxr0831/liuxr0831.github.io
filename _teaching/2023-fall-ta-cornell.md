@@ -3,7 +3,7 @@ title: "CS 2800 - Discrete Structures (Fall 2023)"
 collection: teaching
 type: "TA of Undergraduate Course"
 permalink: /teaching/2023-fall-ta-cornell
-venue: "Department of Computer Science, Cornell Univeristy"
+venue: "Department of Computer Science, Cornell University"
 date: 2023-12-4
 location: "Ithaca, NY, USA"
 excerpt: "Discrete mathematics course for CS-major undergrads."
