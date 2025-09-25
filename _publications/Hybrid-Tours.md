@@ -4,9 +4,11 @@ collection: publications
 permalink: /publication/Hybrid-Tours
 excerpt: 'Create drone-like fly-through shots by concatenating short clips.'
 date: 2025-7-27
-venue: 'ACM Transactions on Graphics (TOG), Volume 44, Issue 4'
+venue: 'SIGGRAPH 2025'
+journal: 'ACM Transactions on Graphics (TOG), Volume 44, Issue 4'
 webpageurl: 'https://www.cs.cornell.edu/abe/projects/hybridtours/'
 paperurl: 'https://www.cs.cornell.edu/abe/projects/hybridtours/Hybrid_Tours_Compressed.pdf'
+teaser: '/images/Hybrid_Tours_floor.gif'
 ---
 
 ![Hybrid Tours Teaser](/images/HybridToursTeaser.png)

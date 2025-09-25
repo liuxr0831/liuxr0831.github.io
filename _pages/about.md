@@ -17,7 +17,6 @@ Prior to my Ph.D study, I obtained the Bachelor of Science degree from Universit
 <br/>
 
 # Publications
-
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -29,11 +28,11 @@ Prior to my Ph.D study, I obtained the Bachelor of Science degree from Universit
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      {% include archive-single.html %}
+      {% include archive-single-publications.html %}
     {% endfor %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    {% include archive-single-publications.html %}
   {% endfor %}
 {% endif %}
