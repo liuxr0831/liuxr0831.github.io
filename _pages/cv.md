@@ -78,4 +78,5 @@ Teaching
 Service
 ======
 
+* 10/2025: Provided teaching evaluation letter for faculty review within the department.
 * 5/2025: Reviewed for SIGGRAPH 2025 Poster Program.
