@@ -27,7 +27,7 @@ Education
 Research Experiences
 ======
 * 8/2023 - Current: PhD Student, Cornell University
-  * Advisor: Abe Davis
+  * Advisor: [Prof. Abe Davis](http://abedavis.com/)
   * Researching VR/AR interaction, eye tracking, spatial audio, and applications of image-based rendering in content creation interactions.
 
 * 5/2021 - 8/2023: Undergraduate Research Assistant, University of Wisconsin-Madison
