@@ -78,5 +78,6 @@ Teaching
 Service
 ======
 
+* 12/2025: Reviewed for ACM Transaction on Graphics (TOG). 
 * 10/2025: Provided teaching evaluation letter for faculty review within the department.
 * 5/2025: Reviewed for SIGGRAPH 2025 Poster Program.
