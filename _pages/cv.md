@@ -78,6 +78,7 @@ Teaching
 Service
 ======
 
+* 1/2026: Reviewed for computer science PhD admission at Cornell University. 
 * 12/2025: Reviewed for ACM Transaction on Graphics (TOG). 
-* 10/2025: Provided teaching evaluation letter for faculty review within the department.
-* 5/2025: Reviewed for SIGGRAPH 2025 Poster Program.
+* 10/2025: Provided teaching evaluation letter for faculty review within the CS department at Cornell University.
+* 5/2025: Reviewed for SIGGRAPH 2025 Poster Program.s
