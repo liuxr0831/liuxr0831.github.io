@@ -26,7 +26,7 @@ Education
 
 Research Experiences
 ======
-* 8/2023 - Current: PhD Student, Cornell University
+* 8/2023 - Current: PhD Candidate, Cornell University
   * Advisor: [Prof. Abe Davis](http://abedavis.com/)
   * Researching VR/AR interaction, eye tracking, spatial audio, and applications of image-based rendering in content creation interactions.
 
@@ -78,6 +78,7 @@ Teaching
 Service
 ======
 
+* 5/2026: Reviewed for SIGGRAPH 2026 Poster Program.
 * 1/2026: Reviewed for computer science PhD admission at Cornell University. 
 * 12/2025: Reviewed for ACM Transaction on Graphics (TOG). 
 * 10/2025: Provided teaching evaluation letter for faculty review within the CS department at Cornell University.

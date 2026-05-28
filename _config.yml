@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xinrui Liu / Ph.D Student"
+title                    : "Xinrui Liu / Ph.D Candidate"
 title_separator          : "-"
 name                     : &name "Xinrui Liu"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Xinrui Liu"
   pronouns         : "he/him"
-  bio              : "3rd-year CS Ph.D. Student studying human-computer interaction"
+  bio              : "3rd-year CS Ph.D. Candidate studying human-computer interaction"
   location         : "Ithaca, NY, USA"
   employer         : "Cornell University"
   uri              : # URL
